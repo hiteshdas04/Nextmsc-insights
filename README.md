@@ -3,6 +3,7 @@
 **Introduction**
 
 Live commerce, the fusion of live video streaming and e-commerce, is revolutionizing the retail landscape. This dynamic shopping experience allows consumers to interact with hosts, ask questions in real-time, and make purchases instantly. With its roots in China, live commerce has rapidly expanded globally, reshaping consumer behavior and business strategies. 
+
 According to Next Move Strategy Consulting, the global [Live Commerce Market](https://www.nextmsc.com/report/live-commerce-market-ic3158) size is predicted to reach USD 3.93 billion by 2030 with a CAGR of 21.9% from 2025-2030.
 
 **[Download FREE Sample](https://www.nextmsc.com/live-commerce-market-ic3158/request-sample)**
@@ -53,7 +54,7 @@ Despite its growth, live commerce encounters several hurdles:
 
 Live commerce is poised to become a dominant force in retail:
 
-•	**Market Expansion**: With projections indicating a market size of USD 77.9 billion by 2030, live commerce is set to redefine online shopping.
+•	**Market Expansion**: live commerce is set to redefine online shopping.
 
 •	**Technological Integration**: Advancements in AI, AR, and VR will further enhance the shopping experience, making it more interactive and personalized. 
 
